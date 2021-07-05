@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-color{
+    color: darkgoldenrod;
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    text-decoration: none;
+    display: inline;
+    margin: 50px;
+  }
+ a{
+    text-decoration: none;
+}
+  .list{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(138, 125, 101),rgb(184, 174, 84));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+  }
+.section-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(109, 43, 54),rgb(52, 153, 111));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: wheat;
+    margin-left: 58px;
+    float: left;
+    margin-top: -42px;
+}
+.section-top{
+    display: flex;
+}
+.section-top-1 {
+    width: 50%;
+    margin: 5px;
+}
+section-top-2 {
+    width: 50%;
+}
+.section-top-2 img {
+    border-radius: 30%;
+    width: 55%;
+    height: auto;
+    position: relative;
+    left: 11%;
+    box-shadow: 20px 20px 20px rgb(63, 70, 37);
+
+}
+.section-top-3 {
+    width: 50%;
+}
+.section-top-3 img {
+    border-radius: 20px;
+    width: 70%;
+    height: 70%;
+    position: relative;
+    left: 15%;
+    box-shadow: 20px 20px 20px rgb(66, 112, 165);
+    padding-top: 20px;
+
+}
+.fex{
+    display: flex;
+}
+.middle{
+    background-image: url(imii/images\ \(1\).jpg);
+}
+.maindiv{
+    display: flex;
+    justify-content: left;
+    color: rgb(29, 26, 25);
+}
+.layout{
+        display: inline-block;
+        width: 40%;
+       background-color: ghostwhite;
+
+        margin: 10px;
+        padding: 5px;
+        border-radius: 40px;
+        box-shadow: 5px 5px 5px gray;
+    
+}
+.receipe{
+        display: block;
+        margin: 0;
+        width: 400px;
+        height: 250px;
+        border-radius: 40px;
+}
+.para{
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: left;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
