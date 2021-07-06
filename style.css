@@ -16,6 +16,7 @@ li {
   }
  a{
     text-decoration: none;
+    color: blanchedalmond;
 }
   .list{
     text-decoration: none;
@@ -43,7 +44,7 @@ li {
     width: 50%;
     margin: 5px;
 }
-section-top-2 {
+.section-top-2 {
     width: 50%;
 }
 .section-top-2 img {
@@ -101,6 +102,14 @@ section-top-2 {
     margin-left: 0%;
     margin-right: 0%;
     text-align: left;
+}
+.middle-box{
+    background-image: url(imii/download.jpg);
+}
+.middle-box1{
+    background-color: darkgray , wheat;
+    color: black;
+    text-align: center;
 }
 footer{
     background-color: black;
